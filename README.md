@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](![screenshot](https://github.com/user-attachments/assets/8e77e78a-e80b-49a9-b573-4df86ce7ca93)
-)
+![screenshot](https://github.com/user-attachments/assets/748bfec3-4727-4e16-aff2-0d9cecd50996)
+
 
 ### Links
 
