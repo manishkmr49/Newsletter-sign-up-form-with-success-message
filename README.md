@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-v9Pc4vIFwn](https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-v9Pc4vIFwn)
+- Solution URL: [https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-v9Pc4vIFwn](https://github.com/manishkmr49/Newsletter-sign-up-form-with-success-message)
 - Live Site URL: [https://newsletter-sign-up-form-manish.netlify.app/](https://newsletter-sign-up-form-manish.netlify.app/)
 
 ## My process
