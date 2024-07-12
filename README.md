@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-v9Pc4vIFwn](https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-v9Pc4vIFwn)
-- Live Site URL: [https://josh76543210-fm-newsletter-sign-up.netlify.app/](https://josh76543210-fm-newsletter-sign-up.netlify.app/)
+- Live Site URL: [https://newsletter-sign-up-form-manish.netlify.app/](https://newsletter-sign-up-form-manish.netlify.app/)
 
 ## My process
 
@@ -78,5 +78,5 @@ function submitEmail(e) {
 
 ## Author
 
-- Frontend Mentor - [@josh76543210](https://www.frontendmentor.io/profile/manishkmr49)
-- Twitter - [@josh76543210](https://www.twitter.com/manishkmr29)
+- Frontend Mentor - [manishkmr49](https://www.frontendmentor.io/profile/manishkmr49)
+- Twitter - [@Manishkmr03](https://x.com/Manishkmr03)
